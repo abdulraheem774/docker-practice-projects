@@ -48,8 +48,9 @@ A simple Python script containerized and executed on container startup.
   docker run -it mypython
   ```
 **Output:**
-  Welcome to Alnafi
-  This is Python running in Docker
+Welcome to Meem_shah
+This is Python running in Docker
+
 ---
 
 ### 4. WordPress + MySQL Stack (`app4/`)
@@ -72,6 +73,7 @@ cd docker-practice-projects
 ```
 
 Then move into any project folder (`app1`, `app2`, `app3`, or `app4`) and follow the build/run commands listed under that project above.
+
 ---
 
 ## 🎯 What This Covers
